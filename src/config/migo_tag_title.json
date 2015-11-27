@@ -1,0 +1,107 @@
+{
+  "MIGOTAG": [
+    {
+      "tagId": 113222,
+      "tagName": "MIGO人群动态",
+      "options": [
+          {
+            "option_id": 939215,
+            "name": "常客"
+          },
+          {
+            "option_id": 939216,
+            "name": "新客"
+          },
+          {
+            "option_id": 939217,
+            "name": "沉睡客"
+          },
+          {
+            "option_id": 939218,
+            "name": "浅睡客",
+          },
+          {
+            "option_id": 939219,
+            "name": "瞌睡客"
+          },
+          {
+            "option_id": 939220,
+            "name": "近期回头客"
+          }
+      ]
+    },
+    {
+      "tagId": 113220,
+      "tagName": "入店资历",
+      "options": [
+          {
+            "option_id": 939209,
+            "name": "早期入店"
+          },
+          {
+            "option_id": 939210,
+            "name": "中期入店"
+          },
+          {
+            "option_id": 939211,
+            "name": "近期入店"
+          }
+      ]
+    },
+    {
+      "tagId": 113221,
+      "tagName": "购物机率预测",
+      "options": [
+          {
+            "option_id": 939213,
+            "name": "回购机率次高"
+          },
+          {
+            "option_id": 939214,
+            "name": "回购机率最高"
+          }
+      ]
+    },
+    {
+      "tagId": 113225,
+      "tagName": "购物行为",
+      "options": [
+          {
+            "option_id": 939227,
+            "name": "长期未消费买家"
+          },
+          {
+            "option_id": 939228,
+            "name": "中期未消费买家"
+          },
+          {
+            "option_id": 939229,
+            "name": "最近买家"
+          }
+      ]
+    },
+    {
+      "tagId": 113223,
+      "tagName": "购物频率",
+      "options": [
+          {
+            "option_id": 939221,
+            "name": "低频购物买家"
+          },
+          {
+            "option_id": 939222,
+            "name": "中频购物买家"
+          },
+          {
+            "option_id": 939223,
+            "name": "高频购物买家"
+          }
+      ]
+    },
+    {
+      "tagId": 113224,
+      "tagName": "购物金额",
+      "options": []
+    }
+  ]
+}

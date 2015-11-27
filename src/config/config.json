@@ -1,0 +1,14 @@
+{
+    "AppConfig": {
+        "server_url": "http://tbapp01_test.migocorp.com/api",
+        "login_url": "https://oauth.tbsandbox.com/authorize?state=1021805329&client_id=1021805329&response_type=token&redirect_uri=http://10.1.9.3/test/UserController.aspx"
+    },
+    "WangWang": {
+        "wangwangUrl": "http://amos.alicdn.com/getcid.aw?v=2&uid=migosh&site=cntaobao&s=2&groupid=0&charset=utf-8"
+    },
+    "pullNew":[939216, 939220, 939229],
+    "pullActivity1":[939213, 939214],
+    "pullActivity2":[939215],
+    "pullSleep": [939219],
+    "allMigoOptionsId": [939213,939214,939215,939216,939217,939218,939219,939220,939221,939222,939223,939224,939225,939226,939209,939210,939211,939210,939227,939228,939229]
+}
